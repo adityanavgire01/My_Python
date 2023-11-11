@@ -16,3 +16,6 @@
 # In terminal ->
 # yt_dlp url_address
 #After executing above command the video will get downloaded in present working directory
+
+#----------
+#first update check in code
